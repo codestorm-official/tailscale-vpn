@@ -1,6 +1,6 @@
 FROM alpine:3.19
 
-ARG TAILSCALE_VERSION="1.58.2" 
+ARG TAILSCALE_VERSION="latest" 
 ENV TAILSCALE_HOSTNAME="tailscale-app"
 ENV TAILSCALE_ADDITIONAL_ARGS="--advertise-exit-node"
 
