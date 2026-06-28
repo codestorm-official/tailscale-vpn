@@ -31,7 +31,7 @@ Generate an auth key at <https://login.tailscale.com/admin/settings/keys>. After
 
 ### Option 1 — One-click on Railway
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/tailscale-private-vpn)
 
 > Replace the link above with your published template URL. After deploying, set `TAILSCALE_AUTHKEY` in the service variables.
 
